@@ -19,7 +19,7 @@ MIS undergraduate at National Chung Hsing University, working on **cybersecurity
 - **Real-Time Health Monitoring and Scheduling Co-Design for Modular Solid-State Transformer** — first author, IEEE NVMSA 2026.
 - **Contraband Recognition Using 2D Image Coordinate Localization and 3D Reconstruction** — first author, CVGIP 2026 (oral).
 - **Software Testing for HMI System Using Robotic Arm and Object Detection** — co-author, IET ICETA 2025 / CVGIP 2025.
-- **ARBITER — executable-proof smart-contract vulnerability auditing** — AIS3 好厲駭 2026 Best Project (team). [Repository](https://github.com/yeee3642/AIS3_CTF1)
+- **ARBITER — executable-proof smart-contract vulnerability auditing** — AIS3 新型態資安暑期課程 2026 Best Project (team). [Repository](https://github.com/yeee3642/AIS3_CTF1)
 
 ## Skills
 
