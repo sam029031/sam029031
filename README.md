@@ -12,6 +12,7 @@ MIS undergraduate at National Chung Hsing University, working on **cybersecurity
 - **[Taiwan Stock Selection](https://github.com/sam029031/taiwan-stock-selection)** — multi-horizon LightGBM stock-ranking pipeline with transformer news-sentiment features and walk-forward out-of-sample backtesting.
 - **[DJ Drop the Beat](https://github.com/sam029031/dj_drop_the_beat)** — FastAPI + MySQL e-commerce & learning platform: catalog, cart/checkout, JWT auth, and an admin back office.
 - **[Data Structures](https://github.com/sam029031/data-structures)** — AVL / B-tree / 2-3 tree / heap implementations plus two Tkinter applications built on them.
+- **[Camp Rally Live](https://github.com/sam029031/camp-rally-system)** — real-time checkpoint management for a university camp (13 teams, 23 stations, ~70 staff phones); Next.js + Supabase Realtime + Vercel. Server-authoritative timers, live organizer dashboard with de-duplicated alerts, race-safe check-ins via idempotent Postgres RPCs, Excel schedule import with cell-level validation, and demo-clock rehearsal mode.
 
 ## Publications
 
